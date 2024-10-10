@@ -229,3 +229,4 @@ E como é para veículos elétricos, não há taxa audiovisual, etc.
 * [Comunidade de Utilizadores da Rede Pública de Carregamento](https://www.facebook.com/groups/utilizadoresredecarregamentopt/)
 * [App Carregar - Simulador Mobi.e](https://apps.apple.com/pt/app/carregar/id6448868818?l=en-GB)
 * [Compara Ervilhas - Simulador Mobi.e](https://comparaervilhas.pt/)
+* [Plan2Charge - Simulador Mobi.e, Tesla e Continente](https://plan2charge.app/)
